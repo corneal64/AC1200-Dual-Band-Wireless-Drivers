@@ -2,9 +2,9 @@
 
 ### AC1200 Dual-Band Wireless Adapter Drivers [rtl88x2bu] [0bda:b812]
 
-----
+---
 
-<img src="AC1200-Dual-Band-Wireless-Adapter.jpeg?raw=true" alt="Alt text" title="AC1200 Dual-Band Wireless Adapter" style="zoom:50%;" />
+<img src="AC1200-Dual-Band-Wireless-Adapter.jpeg?raw=true" alt="Alt text" title="AC1200 Dual-Band Wireless Adapter" width="45%" />
 
 ## How to install
 
